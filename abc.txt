@@ -1,2 +1,6 @@
 this is my first text file
-this is my second one
+
+
+this is my second onegit
+this is new data
+this is feature branch2
